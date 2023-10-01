@@ -1,0 +1,109 @@
+{
+   "widgets":[
+      {
+         "type":"banner",
+         "title":"",
+         "image": "https://picsum.photos/id/35/450/200",
+         "header_text":"New Recipe",
+	     "hexaDecimal_colorCode": "",
+	     "padding": 0.0,
+         "border_radius": 10.0,
+         "footer_text":"Cook Chicken Curry",
+         "footer_icon":true
+      },
+      {
+         "type":"banner",
+         "title":"",
+         "image": "https://picsum.photos/id/34/450/200",
+         "hexaDecimal_colorCode": "0xFFFFD700",
+         "header_text":"Meal Planner",
+         "padding": 0.0,
+         "border_radius": 10.0,
+         "footer_text":"Plan your meals",
+         "footer_icon":false
+      },
+{
+         "type":"banner",
+         "title":"",
+         "image": "",
+         "header_text":"New Recipe",
+	     "hexaDecimal_colorCode": "0xFFFFD700",
+	     "padding": 0.0,
+         "border_radius": 10.0,
+         "footer_text":"Cook Chicken Curry",
+         "footer_icon":true
+      },
+      {
+         "type":"banner",
+         "title":"",
+         "image": "https://picsum.photos/id/34/450/invalidLink",
+         "hexaDecimal_colorCode": "",
+         "header_text":"Meal Planner",
+         "footer_text":"Plan your meals",
+         "padding": 0.0,
+         "border_radius": 10.0,
+         "footer_icon":false
+      },
+      {
+         "type":"horizontal_list",
+         "title":"Collections",
+         "items":[
+            {
+               "type":"circular_item",
+               "text":"Breakfast",
+               "image":"https://picsum.photos/id/61/100/110"
+            },
+            {
+               "type":"circular_item",
+               "text":"Meat Based",
+               "image":"https://picsum.photos/id/72/100/110"
+            },
+            {
+               "type":"circular_item",
+               "text":"Vegan",
+               "image":"https://picsum.photos/id/83/100/110"
+            }, {
+               "type":"circular_item",
+               "text":"Meat Based",
+               "image":"https://picsum.photos/id/94/100/110"
+            },
+            {
+               "type":"circular_item",
+               "text":"Vegan",
+               "image":"https://picsum.photoss/id/10/100/110"
+            }
+         ]
+      },
+      {
+         "type":"horizontal_list",
+         "title":"Cuisines",
+         "items":[
+            {
+               "type":"box_item",
+               "text":"American",
+               "image":"https://picsum.photos/id/61/100/110"
+            },
+            {
+               "type":"box_item",
+               "text":"Italian",
+               "image":"https://picsum.photos/id/72/100/110"
+            },
+            {
+               "type":"box_item",
+               "text":"Thai",
+               "image":"https://picsum.photos/id/83/100/110"
+            },
+{
+               "type":"box_item",
+               "text":"Chinese",
+               "image":"https://picsum.photos/id/94/100/110"
+            },
+            {
+               "type":"box_item",
+               "text":"Indian",
+               "image":"https://picsum.photoss/id/10/100/110"
+            }
+         ]
+      }
+   ]
+}
